@@ -13,7 +13,7 @@ In this context, the PlantVillage dataset, consisting of over 50,000 expertly cu
 This diversity of plant species and diseases makes the dataset highly valuable for developing robust plant disease recognition models.This dataset offers the potential to improve disease diagnostics by enabling the development of mobile applications that can help farmers around the world, especially in developing regions, diagnose plant diseases early and accurately
 
 ### Image Preprocessing 
-![Screenshot](Screenshots/Image Preprocessing.png)
+![Screenshot](Screenshots/Image%20%Preprocessing.png)
 
 
 ### Screenshots
