@@ -1,7 +1,7 @@
 opencv-python
 numpy
 pandas
-pickle5
+pickle
 mahotas
 Pillow
 streamlit
