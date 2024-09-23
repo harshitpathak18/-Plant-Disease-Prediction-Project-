@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pandas
+pickle5
+mahotas
+Pillow
+streamlit
+catboost
